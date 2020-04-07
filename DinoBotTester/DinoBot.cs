@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Drawing;
 using System.Runtime.InteropServices;
+using System.Threading.Tasks;
 
 namespace DinoBotTester
 {
@@ -45,7 +46,7 @@ namespace DinoBotTester
             tree_percent = screenCatch.Width * screenCatch.Height * 3 / 100; //Get 3% of pixels
             Process = Process.GetProcessesByName("chrome")[0];
             Graph = Graphics.FromImage(screenCatch as Image);
-            CameraDistance = 750;
+            CameraDistance = 190;//750;
         }
 
         // Implements dino Logic and movment
@@ -53,7 +54,7 @@ namespace DinoBotTester
         {
             while (DinoBotState)
             {
-                Graph.CopyFromScreen(CameraDistance, 220, 0, 0, screenCatch.Size);
+                Graph.CopyFromScreen(CameraDistance, 295, 0, 0, screenCatch.Size);
                 for (int x = 0; x < screenCatch.Width; x++)
                 {
                     for (int y = 0; y < screenCatch.Height; y++)
@@ -96,12 +97,12 @@ namespace DinoBotTester
             if (halfPixels <= tree_percent && (pixels - halfPixels) >= five_percent)
             {
                 PostMessage(Process.MainWindowHandle, WM_KEYDOWN, WM_ARROWDOWN, 0);
-                System.Threading.Thread.Sleep(300);
+                System.Threading.Thread.Sleep(JumpDelay);
                 PostMessage(Process.MainWindowHandle, WM_KEYUP, WM_ARROWDOWN, 0);
             }
             else if (pixels >= seven_percent)
             {
-                JumpDelay = pixels >= ten_percent ? 240 - level : pixels >= seven_percent ? 220 - level : 0;
+                JumpDelay = pixels >= ten_percent ? 200/*240 was updated to 200*/ - level : pixels >= seven_percent ? 200 - level : 0;
                 PostMessage(Process.MainWindowHandle, WM_KEYDOWN, WM_SPACE, 0);
                 PostMessage(Process.MainWindowHandle, WM_KEYUP, WM_SPACE, 0);
                 System.Threading.Thread.Sleep(JumpDelay);

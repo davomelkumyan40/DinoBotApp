@@ -1,0 +1,14 @@
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.exe
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.deps.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.runtimeconfig.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.runtimeconfig.dev.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Debug\netcoreapp2.1\win-x64\DinoBotTester.pdb
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.AssemblyInfoInputs.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.AssemblyInfo.cs
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Debug\netcoreapp2.1\win-x64\DinoBotTester.pdb

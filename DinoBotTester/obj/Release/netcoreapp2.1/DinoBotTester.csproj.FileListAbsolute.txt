@@ -1,0 +1,11 @@
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Release\netcoreapp2.1\DinoBotTester.deps.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Release\netcoreapp2.1\DinoBotTester.runtimeconfig.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Release\netcoreapp2.1\DinoBotTester.runtimeconfig.dev.json
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Release\netcoreapp2.1\DinoBotTester.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\bin\Release\netcoreapp2.1\DinoBotTester.pdb
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.AssemblyInfoInputs.cache
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.AssemblyInfo.cs
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.dll
+C:\Users\davom\source\repos\DinoBot\DinoBotTester\obj\Release\netcoreapp2.1\DinoBotTester.pdb
